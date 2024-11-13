@@ -1,0 +1,5 @@
+"""
+Rodzaje zasięgów w Python
+"""
+
+
